@@ -1,2 +1,3 @@
 # rougbook
-Reference informations for new applications development
+Correction matrials content
+
