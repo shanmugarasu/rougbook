@@ -1,2 +1,2 @@
 # rougbook
-Reference informations
+Reference informations for new applications development
